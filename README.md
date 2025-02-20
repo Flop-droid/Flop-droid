@@ -1,4 +1,4 @@
-## Oi, prazer! Me chamo Filipe, e bem vindo ao meu museu!! 👋
+## Oi, prazer! Me chamo Filipe! 👋
 
 <a href="https://github.com/flop-droid/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=flop-droid&show_icons=true&theme=radical" />
