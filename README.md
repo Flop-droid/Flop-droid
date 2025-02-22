@@ -1,4 +1,8 @@
-## Oi, prazer! Me chamo Filipe! 👋
+## Hello World! 👋
+
+Ntmy! My name is Filipe Viana, but you can call me Fil. I'm 23yo and currently pursuing a degree in Automation and Control Engineering at the Federal University of Rio de Janeiro. I'm also studying front-end and mobile-oriented programming languages. 
+
+##
 
 <a href="https://github.com/flop-droid/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=flop-droid&show_icons=true&theme=radical" />
@@ -9,7 +13,7 @@
 
 ##
 
-### 📚 Aprendendo...
+### 📚 Learning
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fiu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
